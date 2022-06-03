@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Gửi cậu, cô bé m50",
-    introTitle: 'Lương nèeeeeeeee',
+    introTitle: 'Nông Thị Dương Liễu',
     introDesc: `Trái đất vốn lạ thường
     Mà sao cậu cứ đi nhầm đường
     Lạc vào tim tớ lẻ loi
